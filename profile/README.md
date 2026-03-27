@@ -4,7 +4,7 @@
 
 ## Tools
 
-### [LinkedIn2Email](https://github.com/LINKSCRAP/LinkedIn2Email)
+### [LINKSCRAP](https://github.com/LINKSCRAP/LINKSCRAP)
 Modernized fork of [initstring/linkedin2username](https://github.com/initstring/linkedin2username).  
 Extracts employees from a LinkedIn company page and generates likely email/username patterns.
 
