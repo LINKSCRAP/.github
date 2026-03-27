@@ -17,7 +17,7 @@ Extracts employees from a LinkedIn company page and generates likely email/usern
 pip install -r requirements.txt && playwright install chromium
 python3 main.py -c TARGET_COMPANY -n company.com
 ```
-<p align="center"> <img src="https://github.com/LINKSCRAP/.github/blob/main/profile/arq.png" width="150"/> </p>
+<p align="center"> <img src="https://github.com/LINKSCRAP/.github/blob/main/profile/arq.png"/> </p>
 
 ---
 
