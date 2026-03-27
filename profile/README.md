@@ -21,6 +21,4 @@ python3 main.py -c TARGET_COMPANY -n company.com
 ---
 
 *Use responsibly. Only for legitimate purposes, in compliance with applicable law and LinkedIn's ToS.*
-```
 
----
